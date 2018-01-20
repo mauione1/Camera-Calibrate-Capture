@@ -6,6 +6,7 @@ Requirements
   Numpy 1.13.3
   matplatlib 2.1.1
   imutils 0.4.5
+  Ubuntu 16.04
 ## Display and Record video from USB Cameras
 First we need to setup OpenCV to read and show and record the Video Stream/s from the camera/s.The way it is written it saves the video to the same location as the "Capture.py"
 
